@@ -4,3 +4,8 @@
 .text-highlight{
     color: rgb(84, 142, 197);
 }
+@media (min-width: 992px) {
+    .resume-section-content{
+        margin-left: 5rem;
+    }
+}
